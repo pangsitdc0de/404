@@ -1,0 +1,2 @@
+# 404
+follow target
